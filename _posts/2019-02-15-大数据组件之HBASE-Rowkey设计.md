@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      脱离大数据看HBASE-Rowkey设计
+title:      大数据组件之HBASE-Rowkey设计
 subtitle:   HBase
 date:       2019-02-19
 author:     TBKK
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
-    - JAVA
+    - 大数据
 ---
 
 
