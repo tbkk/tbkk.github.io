@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      深入理解Zookeeper
-subtitle:   RPC
+subtitle:   zookeeper
 date:       2019-09-15
 author:     TBKK
 header-img: img/post-bg-cook.jpg
